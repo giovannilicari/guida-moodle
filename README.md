@@ -1,4 +1,12 @@
-# modifica file /course/classes/output/activity_navigation.php
+# Rendere responsive il menu JUMP-TO
+
+/* Aggiustare la grandezza del menu jump-to in csscustom del tema*/
+
+#jump-to-activity.custom-select {
+    width: 50%;
+    margin: auto;
+    margin-top: 2rem;
+}
 
 nel seguente file
 
